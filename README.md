@@ -30,3 +30,15 @@ Contains the server-side code structure (Node.js/Express) indicating how the RES
 * **Daily View:** Break down your days (Monday - Sunday) into priority and regular tasks.
 * **Dynamic Charts:** See your completion percentage visually with a weekly Donut Chart and daily Bar Charts!
 * **Notes:** Add small notes for each day.
+
+## 🚀 Getting Started
+
+
+📬 Contact
+Tran Nguyen Gia Huy
+- Nick Name : Jerry
+- Email: giahuyy20102007@gmail.com
+- GitHub: @JerryHuyTran
+- Live Demo: [https://jerryhuytran.github.io/LifePilot/Login/index.html]
+  
+Made with curiosity by Jerry
