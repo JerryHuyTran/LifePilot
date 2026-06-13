@@ -39,6 +39,6 @@ Tran Nguyen Gia Huy
 - Nick Name : Jerry
 - Email: giahuyy20102007@gmail.com
 - GitHub: @JerryHuyTran
-- Live Demo: [https://jerryhuytran.github.io/LifePilot/Login/index.html]
+- Live Demo: https://jerryhuytran.github.io/LifePilot/Login/index.html
   
 Made with curiosity by Jerry
