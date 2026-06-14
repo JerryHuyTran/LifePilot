@@ -1,4 +1,4 @@
-# Clarity Planner 🎯
+# Life PiLot 🎯
 
 > A modern, fullstack web application for tracking weekly goals, daily tasks, and personal reflections. Inspired by high-productivity weekly planners!
 
