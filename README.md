@@ -34,11 +34,17 @@ Contains the server-side code structure (Node.js/Express) indicating how the RES
 ## 🚀 Getting Started
 
 
-📬 Contact
+📬 Contact With Us
+
+Ho Van Duy 
+- Nick Name: MR. Beast
+- Email : v.duy00@gmail.com
+- GitHub: ho-van-duy
+
 Tran Nguyen Gia Huy
 - Nick Name : Jerry
 - Email: giahuyy20102007@gmail.com
 - GitHub: @JerryHuyTran
-- Live Demo: https://jerryhuytran.github.io/LifePilot/Login/index.html
   
-Made with curiosity by Jerry
+Live Demo: https://jerryhuytran.github.io/LifePilot/Login/index.html
+Made with curiosity by Jerry and Duy
