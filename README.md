@@ -47,4 +47,5 @@ Tran Nguyen Gia Huy
 - GitHub: @JerryHuyTran
   
 Live Demo: https://jerryhuytran.github.io/LifePilot/Login/index.html
+
 Made with curiosity by Jerry and Duy
